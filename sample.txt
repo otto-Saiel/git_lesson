@@ -1,1 +1,2 @@
-Hello World! sample.txt
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
